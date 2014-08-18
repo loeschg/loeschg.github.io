@@ -10,3 +10,6 @@ github_username:  loeschg
 
 # Build settings
 markdown: kramdown
+
+# Custom settings
+excerpt_separator: <!--more-->
