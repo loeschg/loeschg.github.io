@@ -1,0 +1,12 @@
+# Site settings
+title: gregloesch - blog
+email: greg@gregloesch.com
+description: > # this means to ignore newlines until "baseurl:"
+    Musings from a dev and general tech enthusiast
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gregloesch.com" # the base hostname & protocol for your site
+twitter_username: loeschg
+github_username:  loeschg
+
+# Build settings
+markdown: kramdown
