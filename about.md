@@ -13,8 +13,6 @@ I’m a general tech enthusiast, software engineer, hobbyist photographer, mid-s
 
 You can find me on [github][], [LinkedIn][linkedin], [Twitter][twitter], [Google+][g+], and [Flickr][flickr].
 
-Go Bucks and God bless!
-
 -Greg Loesch
 
 [github]: 	http://github.com/loeschg/ 			"github"
