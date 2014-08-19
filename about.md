@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
 <img src="/assets/headshot-thumb.jpg" class="left"/>
-<!-- ![loesch-headshot](/assets/headshot-thumb.jpg =250x) -->
 
 I’m currently working as an Android Developer in the DC area.
 
