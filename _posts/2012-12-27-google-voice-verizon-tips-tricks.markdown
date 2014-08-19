@@ -3,9 +3,7 @@ layout: post
 title: Google Voice and Verizon - Tips and Tricks
 date: '2014-1-27 09:00:23 -0500'
 categories:
-- phone
-- google
-- google voice
+- google_voice
 tags:
 - free
 - Google

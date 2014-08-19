@@ -2,7 +2,7 @@
 layout: post
 title: 'Verizon Unlimited Data: How to upgrade and keep it (with Verizon rep chat transcript)'
 date: '2013-11-02 18:21:20 -0400'
-categories: mobile
+categories: verizon 
 tags:
 - Android
 - Verizon
