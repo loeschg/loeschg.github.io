@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Google Voice and Verizon - Tips and Tricks
-date: '2014-1-27 09:00:23 -0500'
+featured: true
+date: '2013-10-27 09:00:23 -0500'
 categories:
 - google_voice
 tags:
@@ -25,7 +26,7 @@ tags:
 
 ---
 
-<img class="left" src="/assets/verizon-google-voice.jpg" alt="Verizon &amp; Google Voice" />I've been using Google Voice for about a <del>week</del> couple years now, and I thought I'd share a few things I've learned along the way... things related to using Google Voice with Verizon Wireless. I wanted and hadn't seen any resources out there regarding the Verizon + Google Voice duo, so I figured I'd put one together. This is a compilation of various things I've found on the Google Voice forums and from other sites.
+I've been using Google Voice for about a <del>week</del> couple years now, and I thought I'd share a few things I've learned along the way... things related to using Google Voice with Verizon Wireless. I wanted and hadn't seen any resources out there regarding the Verizon + Google Voice duo, so I figured I'd put one together. This is a compilation of various things I've found on the Google Voice forums and from other sites.
 
 <!--more-->
 
@@ -42,6 +43,7 @@ tags:
 
 <hr />
 <br>
+<img class="left" src="/assets/images/verizon-google-voice.jpg" alt="Verizon &amp; Google Voice" />
 For those of you who haven't heard, Google has a phone management system called Google Voice. This is now open <del>by invitation only</del> to everyone! Sign up <a title="Google Voice Invite" href="https://services.google.com/fb/forms/googlevoiceinvite/">here</a> if you're interested. Google Voice provides you with a variety of different voice/phone services at the awesome cost of <strong>FREE</strong>. It primarily provides you with a central telephone number for all home, office, and mobile phones. It also provides you with free web access to voicemail and text messages, and allows personalization of voicemail messages. 
 
 Instead of rattling off all the GV features, I'll let you check out the video Google has posted (see below). It gives you a pretty good overview. [Google Voice - YouTube](http://www.youtube.com/watch?v=m4Q9MJdT5Ds)

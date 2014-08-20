@@ -2,7 +2,11 @@
 layout: post
 title: Notes from Eloquent Ruby
 date: '2013-11-17 23:31:31 -0500'
-categories: ruby
+categories: dev
+tags:
+- ruby
+- eloquent ruby
+- russ olsen
 
 ---
 I'm in the process of learning Ruby, and per the suggestion of a co-worker and affirmed by the positive reviews on Amazon, I picked up Russ Olsen's <a href="http://www.amazon.com/gp/product/0321584104/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321584104&amp;linkCode=as2&amp;tag=grlomatitranm-20">*Eloquent Ruby*</a> 

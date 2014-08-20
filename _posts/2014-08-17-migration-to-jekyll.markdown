@@ -2,7 +2,7 @@
 layout: post
 title:  "Migration to Jekyll!"
 date:   2014-08-17 22:44:41
-categories: jekyll update
+categories: 
 ---
 
 If you're viewing this post, I've officially migrated my blog away from Wordpress to [Jekyll][jekyll].
