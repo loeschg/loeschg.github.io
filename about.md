@@ -6,13 +6,13 @@ permalink: /about/
 
 <img src="/assets/images/headshot-thumb.jpg" class="left"/>
 
-I’m currently working as an {% icon fa-android %} Android Developer in the DC area.
+I’m currently working as an <i class="fa fa-android"></i> Android Developer in the DC area.
 
 I’m a general tech enthusiast, software engineer, hobbyist photographer, mid-skilled musician - I play piano and guitar and attempt to sing, an uninformed soccer fan, a pretend golfer, an occasional writer, enjoyer of a good outdoor adventure, and a follower of Christ.
 
 You can find me on: 
 
-[{% icon fa-github %} github][github] - [{% icon fa-stack-overflow%} **stack**overflow][stackoverflow] - [ Linked**in**][linkedin] - [{% icon fa-twitter %} Twitter][twitter] - [{% icon fa-google-plus%} Google+][g+] - [{% icon fa-flickr%} Flickr][flickr]
+[<i class="fa fa-github"></i> github][github] - [<i class="fa fa-stack-overflow"></i> **stack**overflow][stackoverflow] - [ Linked**in**][linkedin] - [<i class="fa fa-twitter"></i> Twitter][twitter] - [<i class="fa fa-google-plus"></i> Google+][g+] - [<i class="fa fa-flickr"></i> Flickr][flickr]
 
 \- Greg
 
