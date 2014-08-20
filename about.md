@@ -10,9 +10,10 @@ I’m currently working as an <i class="fa fa-android"></i> Android Developer in
 
 I’m a general tech enthusiast, software engineer, hobbyist photographer, mid-skilled musician - I play piano and guitar and attempt to sing, an uninformed soccer fan, a pretend golfer, an occasional writer, enjoyer of a good outdoor adventure, and a follower of Christ.
 
-You can find me on: 
+You can find me on 
 
-[<i class="fa fa-github"></i> github][github] - [<i class="fa fa-stack-overflow"></i> **stack**overflow][stackoverflow] - [ Linked**in**][linkedin] - [<i class="fa fa-twitter"></i> Twitter][twitter] - [<i class="fa fa-google-plus"></i> Google+][g+] - [<i class="fa fa-flickr"></i> Flickr][flickr]
+[Linked**in**][linkedin] --- [<i class="fa fa-twitter"></i> Twitter][twitter] --- [<i class="fa fa-google-plus"></i> Google+][g+] <br> 
+[<i class="fa fa-github"></i> github][github] --- [<i class="fa fa-stack-overflow"></i> **stack**overflow][stackoverflow] --- [<i class="fa fa-flickr"></i> Flickr][flickr]
 
 \- Greg
 
