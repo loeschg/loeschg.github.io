@@ -4,9 +4,7 @@ email: greg@gregloesch.com
 description: > # this means to ignore newlines until "baseurl:"
     Musings from a dev and general tech enthusiast
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://loeschg.com" # the base hostname & protocol for your site
-twitter_username: loeschg
-github_username:  loeschg
+url: "http://gregloesch.com" 
 
 # Build settings
 markdown: kramdown
