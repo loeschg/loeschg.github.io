@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Command-line Command Reference
-date: '2012-12-27 10:58:54 -0500'
+date: '2014-08-21 00:47:54 -0500'
 categories:
 - dev
 tags:
