@@ -30,6 +30,18 @@ I've been using Google Voice for about a <del>week</del> couple years now, and 
 
 <!--more-->
 
+<div style="float:left">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- GL-Medium Rect - Lead in -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8434327951333786"
+     data-ad-slot="1463896563"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 <hr>
 <strong>Overview (easy navigation):</strong>
 
@@ -42,8 +54,8 @@ I've been using Google Voice for about a <del>week</del> couple years now, and 
 - [Voicemail and Using Google Voice Without Changing Your Number](#voicemail)
 
 <hr />
-<br>
 <img class="left" src="/assets/images/verizon-google-voice.jpg" alt="Verizon &amp; Google Voice" />
+<br>
 For those of you who haven't heard, Google has a phone management system called Google Voice. This is now open <del>by invitation only</del> to everyone! Sign up <a title="Google Voice Invite" href="https://services.google.com/fb/forms/googlevoiceinvite/">here</a> if you're interested. Google Voice provides you with a variety of different voice/phone services at the awesome cost of <strong>FREE</strong>. It primarily provides you with a central telephone number for all home, office, and mobile phones. It also provides you with free web access to voicemail and text messages, and allows personalization of voicemail messages. 
 
 Instead of rattling off all the GV features, I'll let you check out the video Google has posted (see below). It gives you a pretty good overview. [Google Voice - YouTube](http://www.youtube.com/watch?v=m4Q9MJdT5Ds)
@@ -55,6 +67,7 @@ On to the important stuff.
 ## Calling
 
 #### Are my calls/texts in or out of network???
+
 
 The very first thing most people want to know is how Google Voice will impact their current Verizon Wireless plan. The answer contains mixed news depending on your current plan. The bad news first. Any calls you place through Google Voice on your cell phone are considered <strong>out of network, and all text messages sent via GV are out of network, too.</strong> This is a deal breaker for most people. In case you're one of the discouraged, don't leave just yet. <strong>Know that you can use at least some of the GV features</strong> without having to give everyone your Google Voice number and <strong>without having to use precious out-of-network minutes</strong>. <a href="#voicemail">Click here to jump down the page to the features I'm referring to</a>.
 
