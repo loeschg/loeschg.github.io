@@ -54,9 +54,9 @@ I've been using Google Voice for about a <del>week</del> couple years now, and 
 - [Voicemail and Using Google Voice Without Changing Your Number](#voicemail)
 
 <hr />
-<img class="left" src="/assets/images/verizon-google-voice.jpg" alt="Verizon &amp; Google Voice" />
 <br>
 For those of you who haven't heard, Google has a phone management system called Google Voice. This is now open <del>by invitation only</del> to everyone! Sign up <a title="Google Voice Invite" href="https://services.google.com/fb/forms/googlevoiceinvite/">here</a> if you're interested. Google Voice provides you with a variety of different voice/phone services at the awesome cost of <strong>FREE</strong>. It primarily provides you with a central telephone number for all home, office, and mobile phones. It also provides you with free web access to voicemail and text messages, and allows personalization of voicemail messages. 
+
 
 Instead of rattling off all the GV features, I'll let you check out the video Google has posted (see below). It gives you a pretty good overview. [Google Voice - YouTube](http://www.youtube.com/watch?v=m4Q9MJdT5Ds)
 
@@ -64,18 +64,32 @@ Why use Google Voice? Check out this (video) article from [Lifehacker](http://li
 
 On to the important stuff.
 
+
 ## Calling
 
 #### Are my calls/texts in or out of network???
 
 
-The very first thing most people want to know is how Google Voice will impact their current Verizon Wireless plan. The answer contains mixed news depending on your current plan. The bad news first. Any calls you place through Google Voice on your cell phone are considered <strong>out of network, and all text messages sent via GV are out of network, too.</strong> This is a deal breaker for most people. In case you're one of the discouraged, don't leave just yet. <strong>Know that you can use at least some of the GV features</strong> without having to give everyone your Google Voice number and <strong>without having to use precious out-of-network minutes</strong>. <a href="#voicemail">Click here to jump down the page to the features I'm referring to</a>.
+The very first thing most people want to know is how Google Voice will impact their current Verizon Wireless plan.  The answer contains mixed news depending on your current plan. The bad news first. Any calls you place through Google Voice on your cell phone are considered <strong>out of network, and all text messages sent via GV are out of network, too.</strong> This is a deal breaker for most people. <img class="left" src="/assets/images/verizon-google-voice.jpg" alt="Verizon &amp; Google Voice" /> In case you're one of the discouraged, don't leave just yet. <strong>Know that you can use at least some of the GV features</strong> without having to give everyone your Google Voice number and <strong>without having to use precious out-of-network minutes</strong>. <a href="#voicemail">Click here to jump down the page to the features I'm referring to</a>.
+
 
 However, the good news is if you have the circle of Friends and Family, you can essentially make unlimited phone calls by adding your Google Voice number as one of your Friends and Family numbers. How's this work? In order to call out using Google Voice, you have to first dial your GV number, then dial the number you want to call. Therefore technically every call is to Google Voice, who then redirects your call for free. I'd predict that Verizon will make this more difficult if GV continues to grow.
 
 <strong>Update</strong> (The following is the latest on using GV with Verizon. [thanks, jay!]):
 
 Okay if you use Google Voice and have your Google number in your circle all INCOMING calls are free. The Google Voice app uses random GV numbers to dial out. These calls are NOT free as they are not placed through you GV number although your GV number will show up on the recipients number.
+
+<div style="float:right;">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- GL-Large Rectangle - Mid-post -->
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:336px;height:280px"
+       data-ad-client="ca-pub-8434327951333786"
+       data-ad-slot="3667306130"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
 
 To make free out going calls you need an app from the Android market called GV. Once you’ve set it up all you do is hit your phone button and it asks you [to dial] or [use] GV. Press GV and press your contact and GV automatically dials your Google Voice number, enters your pin, selects 2, and dials your contact number. You will hear all of this just as if you had manually dialed your own Google Voice number. I'm fairly certain the same goes for the mobile iOS application... though that's unconfirmed.
 
@@ -95,12 +109,14 @@ This section is not really as relevant as it once was. <strong>The most convenie
 <li>If you're an Android user, once you download the app, every time you take action to make a call, you're prompted with the typical list of relevant applications that can perform the action. You'll have the choice to dial using Google Voice or the regular built-in phone application.</li>
 <li>If you're an iPhone user, you have to take an extra step. If you want to dial out, you'll have to open the Google Voice app and dial the number. *insert Google fanboy comments... followed by Apple fanboy rebuttals.* If you're outside the US, there is apparently an app called GV Mobile that will allow you to use Google Voice by default. See more info <a title="GV Mobile" href="http://lifehacker.com/5227441/gv-mobile-makes-google-voice-the-default-for-your-iphone">here</a>.</li>
 </ul>
-<a href="http://gregloesch.com/images/2009/08/GoogleVoice.png"><img class="left" title="GoogleVoice" src="/assets/GoogleVoice-200x300.png" alt="" width="200" height="300" /></a>
+
 
 <ul>
 <li>If you're a Blackberry user, <del>get a new phone</del> I'm not sure... I don't have any experience with that. Somebody will have to fill me in.</li>
 </ul>
 ---<strong>END UPDATE---</strong>
+
+<a href="http://gregloesch.com/images/2009/08/GoogleVoice.png"><img class="left" title="GoogleVoice" src="/assets/images/GoogleVoice-200x300.png" alt="" width="200" height="300" /></a>
 
 So... now that you're ready to jump into GV, how exactly do you "conveniently" call people using GV on your cell phone? The two obvious ways are to <em>call your GV number and dial out from there</em> or <em>call from the Google Voice home page</em>. Neither of those are very appealing on a basic Verizon phone (app is available for BlackBerry phones). Nobody wants to go through their entire phonebook and prepend each number with their GV number and appropriate pauses just to dial out using Google Voice.
 
