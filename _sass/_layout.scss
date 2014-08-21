@@ -4,35 +4,43 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 200px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    // Custom background
+    background-image: url('/assets/images/oldrag2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 36px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
+    margin-top: $spacing-unit/2;
     float: left;
+    color: #fff;
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: #fff;
     }
 }
 
 .site-nav {
     float: right;
     line-height: 56px;
+    margin-top: $spacing-unit/2;
 
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        color: $text-color;
+        color: #fff;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -82,6 +90,7 @@
         .page-link {
             display: block;
             padding: 5px 10px;
+            color: $grey-color-dark;
         }
     }
 }
