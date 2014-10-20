@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resources for Learning Dagger for Android
-date: '2014-10-19 21:10:10 -0500'
+date: '2014-10-19 18:10:10 -0500'
 categories:
 - dev
 tags:
