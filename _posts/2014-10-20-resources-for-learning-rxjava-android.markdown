@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resources for Learning RxJava for Android
-date: '2014-10-20 19:59:10 -0500'
+date: '2014-10-20 18:59:10 -0500'
 categories:
 - dev
 tags:
