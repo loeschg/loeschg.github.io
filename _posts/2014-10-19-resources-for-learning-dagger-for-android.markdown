@@ -12,7 +12,7 @@ featured: true
 comments: true
 ---
 
-[Dagger](http://square.github.io/dagger/) is all the rage right now in the Android Development world, and it's for good reason. Dagger is a good, lightweight dependency injection tool which will likely help you better architect your app. Like many other valuable technologies, **the learning curve can be a little steep** - especially if you've never used a dependency injection tool before - but I think you'll find it's well worth your time to learn it. 
+[Dagger](http://square.github.io/dagger/) is all the rage right now in the Android Development world, and it's for good reason. Dagger is a good, lightweight dependency injection tool which will likely help you better architect your app. Like many other valuable technologies, **the learning curve can be a little steep** ([much like my experience with RxJava](http://gregloesch.com/dev/2014/10/20/resources-for-learning-rxjava-android.html)) - especially if you've never used a dependency injection tool before - but I think you'll find it's well worth your time to learn it. 
 
 While I'm still definitely in the process of grokking the library/paradigm, I figured it could be valuable to put together a list of articles, slides, and presentations that helped get me over the hump. Let's all feel smarter together! \o/
 
