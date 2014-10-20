@@ -14,7 +14,7 @@ tags:
 
 
 ---
-<div style="float:left; padding-right: 4px;">
+<div style="float:left; padding-right: 8px;">
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <!-- GL-Medium Rect - Lead in -->
   <ins class="adsbygoogle"
