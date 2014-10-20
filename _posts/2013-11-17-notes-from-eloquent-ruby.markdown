@@ -3,6 +3,7 @@ layout: post
 title: Notes from Eloquent Ruby
 date: '2013-11-17 23:31:31 -0500'
 categories: dev
+comments: true
 tags:
 - ruby
 - eloquent ruby

@@ -5,6 +5,7 @@ featured: true
 date: '2013-10-27 09:00:23 -0500'
 categories:
 - google_voice
+comments: true
 tags:
 - free
 - Google

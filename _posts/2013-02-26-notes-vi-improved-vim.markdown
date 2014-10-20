@@ -2,6 +2,7 @@
 layout: post
 title: 'Notes: Vi IMproved - Vim '
 date: '2013-02-26 23:08:08 -0500'
+comments: true
 categories:
 - dev 
 tags:
