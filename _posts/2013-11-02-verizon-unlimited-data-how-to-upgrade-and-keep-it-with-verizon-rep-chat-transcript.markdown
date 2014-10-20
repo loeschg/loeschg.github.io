@@ -14,16 +14,18 @@ tags:
 
 
 ---
-<div class="floatLeft">
-  <script type="text/javascript"><!--<br />
-google_ad_client = "ca-pub-8434327951333786";<br />
-/* GL-Large Rectangle - Mid-post */<br />
-google_ad_slot = "3667306130";<br />
-google_ad_width = 336;<br />
-google_ad_height = 280;<br />
-//--><br />
-</script>
+<div style="float:left">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- GL-Medium Rect - Lead in -->
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:300px;height:250px"
+       data-ad-client="ca-pub-8434327951333786"
+       data-ad-slot="1463896563"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
 </div>
+
 With Verizon, the process of transferring an upgrade from a line with unlimited data to a line without unlimited data will indeed let you <strong>get a new phone at contract price and keep unlimited data.</strong> I've seen numerous articles making the case for both sides of the story, and I've talked to reps that have also claimed both sides of the story. Pretty frustrating!
 
 I did, however, just complete this process today (11/2/13) with success, purchasing a new LG G2. The transcript from my conversation is posted at the bottom of this post.
@@ -61,6 +63,18 @@ I successfully did the following online:
 <li>When picking it up at the store I informed the rep that I wanted to activate the new phone with my number per the Verizon rep's suggestion.</li>
 <li>The rep worked some magic (I believe did the switching back and forth for me), and I was all set! The re-activation of the dumb-phone with my mom's number automatically reverted away from the $30 data plan back to the $10 talk/text plan.</li>
 </ol>
+
+<div style="float:right">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- GL-Large Rectangle - Mid-post -->
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:336px;height:280px"
+       data-ad-client="ca-pub-8434327951333786"
+       data-ad-slot="3667306130"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
 
 It should be noted that the Verizon employee who helped me at the end said the online reps weren't supposed to encourage in store pickup for this scenario because it's a pretty long process for them. This guy in particular was the only one working the kiosk, and the line behind me got uncomfortably long. He said it's better to have the phone shipped to you and call in to get help activating. I'll let you decide what to do with that info :).
 
