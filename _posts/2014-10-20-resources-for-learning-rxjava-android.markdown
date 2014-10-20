@@ -34,11 +34,12 @@ Again, maybe you're smarter than me.
 
 The first thing I recommend reading is a general intro to what RxJava is all about: Functional Reactive Programming. I'd recommend reading through [An intro to Functional Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754), but don't get too bogged down in details. It can get dense quickly and thus discouraging. You just want to get a high level understanding of what FRP is about.
 
-Next, **I'd highly recommend this 3 part series** by a guy named Dan Lew. RxJava finally clicked when I read these, and I'm grateful he took the time to write the posts! They're short, digestible, and have solid content. He also gives examples with and without closures/lambdas... a small but *very* helpful thing.
+Next, **I'd highly recommend this 4 part series** by a guy named Dan Lew. RxJava finally clicked when I read these, and I'm grateful he took the time to write the posts! They're short, digestible, and have solid content. He also gives examples with and without closures/lambdas... a small but *very* helpful thing.
 
-* http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/
-* http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/
-* http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/
+* [Part 1 - The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
+* [Part 2 - Operators](http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)
+* [Part 3 - Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/)
+* [Part 4 - Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)
 
 Next, I'd suggest reading an article that gives advice to devs just starting out with RxJava (in a mobile context). The tl;dr is "don't use it everywhere right away. Use it for something small like network requests."
 
