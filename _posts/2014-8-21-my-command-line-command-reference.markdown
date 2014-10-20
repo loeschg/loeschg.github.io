@@ -12,6 +12,7 @@ tags:
 - terminal
 - common command-line
 featured: true
+comments: true
 ---
 
 My shell cheatsheat. This is my (growing) list of command line related notes.
