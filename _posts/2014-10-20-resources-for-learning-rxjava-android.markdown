@@ -18,17 +18,17 @@ comments: true
 
 ### JavaRx: Observable Stream Sequence Provider...whaaaat?
 
-Cracking open RxJava without the right resources is really difficult because 
+Cracking open RxJava without the right resources is really difficult because of the following: 
 
-a) RxJava more a programming paradigm than library (Functional Reactive Programming)
-b) RxJava doesn't really have a specific use case. It can solve a lot of problems in various ways.
-c) RxJava's naming conventions don't seem that natural to me and thus it's hard to read, especially when you don't have lambdas/closures. I'm looking at you Android... no Java 8. No, I don't have any better naming suggestions :D
+* RxJava more a programming paradigm than library (Functional Reactive Programming)
+* RxJava doesn't really have a specific use case. It can solve a lot of problems in various ways.
+* RxJava's naming conventions don't seem that natural to me and thus it's hard to read, especially when you don't have lambdas/closures. I'm looking at you Android... no Java 8. No, I don't have any better naming suggestions :D
 
 It's also hard not to feel dumb and close the browser tab when you read this in the RxJava Intro section in the Wiki:
 
 >RxJava is a Java VM implementation of Reactive Extensions: a library for composing asynchronous and event-based programs by using observable sequences.
 
-Again, maybe you're smarter than me.
+Again, maybe you're smarter than me. 
 
 ### What worked for me
 
