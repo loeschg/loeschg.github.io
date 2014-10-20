@@ -12,7 +12,7 @@ featured: true
 comments: true
 ---
 
-[RxJava](https://github.com/ReactiveX/RxJava/wiki/The-RxJava-Android-Module) is another library that's been cropping up all over the place in AndroidDev world. [Similar to my experience with Dagger](http://gregloesch.com/dev/2014/10/19/resources-for-learning-dagger-for-android.html), RxJava was (and still does feel like) a sizable mountain to climb. With the help of some posts, I feel like I've finally been able to overcome at least a good majority of the steep learning curve. I'll be the first to admit I have a lot to learn.
+[RxJava](https://github.com/ReactiveX/RxJava/wiki/The-RxJava-Android-Module) is another library that's been cropping up all over the place in AndroidDev world. [Similar to my experience with Dagger](http://gregloesch.com/dev/2014/10/19/resources-for-learning-dagger-for-android.html), RxJava was (and still does feel like) a sizable mountain to climb. With the help of some posts, I feel like I've finally been able to overcome at least a good majority of the steep learning curve. I'll be the first to admit I still have a lot to learn.
 
 <!--more-->
 
