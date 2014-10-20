@@ -43,7 +43,7 @@ Next, **I'd highly recommend this 4 part series** by a guy named Dan Lew. RxJava
 
 Next, I'd suggest reading an article that gives advice to devs just starting out with RxJava (in a mobile context). The tl;dr is "don't use it everywhere right away. Use it for something small like network requests."
 
-* http://blog.futurice.com/tech-pick-of-the-week-rx-for-net-and-rxjava-for-android
+* [RxJava for Android (and .NET)](http://blog.futurice.com/tech-pick-of-the-week-rx-for-net-and-rxjava-for-android)
 
 [RxMarbles](http://rxmarbles.com/) is a great **interactive** site which helped/helps me visualize different aspects of RxJava (you can click and drag the marbles... I missed that the first time around :D). It's linked in the offical RxJava wiki, so you know it's good!
 
