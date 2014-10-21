@@ -60,6 +60,10 @@ For those of you using [Square's Retrofit library](http://square.github.io/retro
 
 How about that!
 
+[EDIT] Jake Wharton gave a quick 5-minute talk at Netflix recently about composing API calls using Retrofit and RxJava. See below for slides and video
+
+* [Retrofit and RxJava - Netflix Open Source Meetup](https://speakerdeck.com/jakewharton/2014-1)
+
 ### Final Thoughts
 
 While I haven't played around much with RxJava, I'm excited to see the instances where this can be used to cleverly solve a problem. I'd love to hear the ways which you've found it to be useful in your development process if you're a regular RxJava user... though my guess is you're probably not if you're reading this post. 
