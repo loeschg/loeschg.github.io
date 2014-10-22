@@ -4,7 +4,7 @@ title: about me
 permalink: /about/
 ---
 
-<img src="/assets/images/headshot-thumb.jpg" class="left"/>
+<img src="/assets/images/profile-rome.png" class="left"/>
 
 I’m currently working as an <i class="fa fa-android"></i> Android Developer in the DC area.
 
