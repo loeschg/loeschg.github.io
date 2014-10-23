@@ -20,7 +20,7 @@ comments: true
 
 Cracking open RxJava without the right resources is really difficult because of the following: 
 
-* RxJava more a programming paradigm than library (Functional Reactive Programming)
+* RxJava is more a programming paradigm than library (Functional Reactive Programming)
 * RxJava doesn't really have a specific use case. It can solve a lot of problems in various ways.
 * RxJava's naming conventions don't seem that natural to me and thus it's hard to read, especially when you don't have lambdas/closures. I'm looking at you Android... no Java 8. No, I don't have any better naming suggestions :D
 
