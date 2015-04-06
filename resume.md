@@ -65,13 +65,13 @@ h2 {
 * **SDK** - Activities, Fragments, Services, Intents, Broadcast Receivers, Custom Views, SQLite
 * **Open Source and Other Libraries** - Dagger, RxJava, Retrofit, many of Square's other open-source libraries (Picasso, Butterknife, OkHttp), ActiveAndroid (ORM), Android Support Libraries, Google Play Services, Google Analytics, Google Maps (v2), Google Cloud Messaging
 * **Testing** - Robolectric, Espresso, JUnit, Mockito, Fest/AssertJ
-* **Build & Development** - Gradle, Android Studio
+* **Build & Development** - Gradle, Android Studio, Travis CI, Jenkins
 
 ### Other Technologies & Experience
 
 * **Programming Languages** - Java, Ruby, Groovy, Objective-C, SQL (experience with MySQL, PostgreSQL, SQLite)
 * **Web Frameworks & Related Technologies** - Ruby on Rails, Grails, typical web technologies (CSS3, HTML5, jQuery)
-* **Tools & Other Technologies** - Git (github), Jenkins, Travis CI, AWS, S3, Heroku, vim, RubyMine, zsh, JIRA, Confluence
+* **Tools & Other Technologies** - Git (github), AWS, S3, Heroku, vim, RubyMine, zsh, JIRA, Confluence
 * **Design** - Photoshop (layers, masking, etc)
 * **Process** - Agile Scrum
 
