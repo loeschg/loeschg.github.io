@@ -1,5 +1,4 @@
 ---
-title: resume
 layout: basic 
 permalink: /4-6-15-resume/
 noindex: true
