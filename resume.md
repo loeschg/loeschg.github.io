@@ -79,9 +79,10 @@ h2 {
 
 **Engineering Lead** (Android Developer) - **[WeddingWire](http://weddingwire.com)**  &nbsp;&nbsp;*/*&nbsp;&nbsp;  Chevy Chase, MD  &nbsp;&nbsp;*/*&nbsp;&nbsp;  Jan 2014 - Current
 
-* Currently working as an Engineering Lead on the B2B side of the business with a primarily focus on Android Development.
-* Developed and maintained [WedTeam Android - (https://play.google.com/store/apps/details?id=com.weddingwire.vendorsearch)](https://play.google.com/store/apps/details?id=com.weddingwire.vendorsearch) from start up to version 1.6.  
+* Currently working as an Engineering Lead on the B2B side of the business with a primary focus on Android Development.
+* Developed and maintained [WedTeam Android - (https://play.google.com/store/apps/details?id=com.weddingwire.vendorsearch)](https://play.google.com/store/apps/details?id=com.weddingwire.vendorsearch) from creation through several minor releases.  
 * Leading development for our [Review Manager - (https://play.google.com/store/apps/details?id=com.weddingwire.vendorreviews)](https://play.google.com/store/apps/details?id=com.weddingwire.vendorreviews) Android app.
+* Currently leading another yet-to-be released Android project.
 * Started and am actively developing the Android department at WeddingWire. This includes coding standards, hiring, and development process.
 * Writer for our tech blog - See [(http://techblog.weddingwire.com/blog/posts/gradle-build-variants-for-the-common-dev-part-1-build-types)](http://techblog.weddingwire.com/blog/posts/gradle-build-variants-for-the-common-dev-part-1-build-types)
 
