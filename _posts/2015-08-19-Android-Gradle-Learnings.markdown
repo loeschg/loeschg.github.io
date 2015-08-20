@@ -24,7 +24,7 @@ In the Android-Gradle plugin we're provided a task called `lint`. This, as you'd
 My goal was to add on to this `lint` task and take action on the generated lint report - located at `ProjectRoot/app/build/outputs/lint-results.html` - (using [git-ratchet](https://github.com/iangrunert/git-ratchet) to "ratchet down" lint warnings if you must know).
 
 ## Adding on to an already existing Android build task
-Initially I crafted a script which was explicitly executed as a part of our CI process. After (strugging through) writing the bash script, it dawned on me that it'd make more sense to make this a gradle task because... well... it's a part of our build process.
+Initially I crafted a script which was explicitly executed as a part of our CI process. After (struggling through) writing the bash script, it dawned on me that it'd make more sense to make this a gradle task because... well... it's a part of our build process.
 
 #### This should be simple... right?
 
