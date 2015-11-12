@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="/assets/images/profile-rome.png" class="left"/>
 
-I’m currently working as an <i class="fa fa-android"></i> Android Developer for Atlassian in the Austin, TX area, though my thoughts are my own!
+I’m currently working for Atlassian in Austin, TX where I'm focusing on HipChat for <i class="fa fa-android"></i> Android. My thoughts are my own!
 
 I’m a general tech enthusiast, software engineer, hobbyist photographer, mid-skilled musician - I play piano and guitar and attempt to sing, an uninformed soccer fan, a pretend golfer, an occasional writer, enjoyer of a good outdoor adventure, and a follower of Christ.
 
