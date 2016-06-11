@@ -1,6 +1,6 @@
 ---
-layout: basic 
-permalink: /4-6-15-resume/
+layout: basic
+permalink: /my-resume/
 noindex: true
 ---
 
@@ -37,16 +37,16 @@ h2 {
 
 <div id="resume">
 	<h1>Greg Loesch
-	<span>- Engineering Lead / Android Developer</span> 
+	<span>- Engineering Lead / Android Developer</span>
 	</h1>
 	<p>
 		<a href="http://stackoverflow.com/users/413254/loeschg" title="stackoverflow"><i class="fa fa-stack-overflow"></i> <strong>stack</strong>overflow (loeschg)</a>
-		— 
-		<a href="http://github.com/loeschg/" title="github"><i class="fa fa-github"></i> (loeschg)</a> 
-		— 
-		<a href="http://linkedin.com/in/gregloesch" title="LinkedIn"><i class="fa fa-linkedin"></i> (gregloesch)</a> 
-		— 
-		<a href="http://twitter.com/loeschg/" title="Twitter"><i class="fa fa-twitter"></i> (@loeschg) </a> 
+		—
+		<a href="http://github.com/loeschg/" title="github"><i class="fa fa-github"></i> (loeschg)</a>
+		—
+		<a href="http://linkedin.com/in/gregloesch" title="LinkedIn"><i class="fa fa-linkedin"></i> (gregloesch)</a>
+		—
+		<a href="http://twitter.com/loeschg/" title="Twitter"><i class="fa fa-twitter"></i> (@loeschg) </a>
 	</p>
 	<h2><a href="http://about.me/gregloesch">www.about.me/gregloesch</a> - <a href="mailto:loesch.greg@gmail.com">loesch.greg@gmail.com</a></h2>
 </div>
@@ -98,8 +98,8 @@ h2 {
 
 **Software Developer - [Accenture](http://www.accenture.com)** &nbsp;&nbsp;*/*&nbsp;&nbsp; Washington D.C. &nbsp;&nbsp;*/*&nbsp;&nbsp; Oct 2011 - Oct 2012
 
-* Developed a web application (using Java, Spring MVC, Web Flow, Hibernate, JSP, Oracle, Javascript, jQuery, and CSS technologies) for a government client. 
-* Agile (Scrum) Methodologies - involved in all aspects of the software development life cycle. 
+* Developed a web application (using Java, Spring MVC, Web Flow, Hibernate, JSP, Oracle, Javascript, jQuery, and CSS technologies) for a government client.
+* Agile (Scrum) Methodologies - involved in all aspects of the software development life cycle.
 * Acted as Technical Lead for a volunteer team developing a website redesign for a local non-profit. Volunteer of the month.
 
 
@@ -113,8 +113,8 @@ h2 {
 
 **Webmaster/Web Developer - [CSE Dept-Ohio State University](https://cse.osu.edu/)** &nbsp;&nbsp;*/*&nbsp;&nbsp; Columbus, OH &nbsp;&nbsp;*/*&nbsp;&nbsp; June 2009 - June 2010
 
-* Designed, developed, and maintained a website for a CSE research group. 
-* Programmed the website from scratch using strict XHTML and CSS standards. 
+* Designed, developed, and maintained a website for a CSE research group.
+* Programmed the website from scratch using strict XHTML and CSS standards.
 * Basic graphic design using vector and photo-editing software.
 
 [github]: 	http://github.com/loeschg/ 			"github"
