@@ -12,7 +12,7 @@ featured: true
 comments: true
 ---
 
-As Android developers, a good majority of us are pretty content with having basic understanding ("basic understanding" may even be a stretch) of [Gradle](#link), the build system we rely on every day to do our jobs. Having recently explored writing a custom task, I thought I'd share a couple things I learned along the way.
+As Android developers, a good majority of us are pretty content with having basic understanding ("basic understanding" may even be a stretch) of [Gradle](http://gradle.org), the build system we rely on every day to do our jobs. Having recently explored writing a custom task, I thought I'd share a couple things I learned along the way.
 
 <!--more-->
 
@@ -71,7 +71,7 @@ This confused me. Why could I directly reference `assembleDebug` and not `lint`?
 
 While not entirely sure of the specifics of *why* this is necessary, turns out the lint task isn't available until after the evaluation/configuration step of gradle. (See the Gradle docs - [Build Lifecycle Events](https://docs.gradle.org/current/userguide/build_lifecycle.html#build_lifecycle_events) - for more info)
 
-In order to hook into any dynamically generated tasks, such as `lint`, you need to use the `afterEvaluate` method:
+In order to hook into any dynamically generated tasks, such as `lint`, you need to use the `afterEvaluate` method (**EDIT: or take the approach outlined in my [more recent post]({% post_url 2016-06-11-Android-Gradle-Learnings-Update %})**) :
 
     afterEvaluate { project ->
       project.tasks.lint << {
