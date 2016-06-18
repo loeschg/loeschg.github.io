@@ -96,7 +96,7 @@ Should you have a bunch of SVGs, you can do a bulk conversion using the [svg2and
 
 If you prefer to have a bit more automated process, you may want to check out the victor Gradle plugin (https://github.com/trello/victor) by Dan Lew and the folks over at Trello. From my understanding, this is an early release, though I'm sure they'd love the feedback and help squashing any bugs!
 
-### Go shed some APK weight while make your designer happier!
+### Go shed some APK weight and make your designer happier!
 
 With this technique you can now replace bulky image files with lightweight VectorDrawables and make your designer happier in the process!
 
