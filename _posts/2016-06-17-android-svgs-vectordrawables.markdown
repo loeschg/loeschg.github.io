@@ -12,7 +12,9 @@ featured: true
 comments: true
 ---
 
-Dealing with drawables and different screen densities is one of the more tedious parts of Android Development. These last few weeks I've been especially aware of this at HipChat, as I've been doing daily "dp" dances with one of our designers. While running Android's lint tool, some image resource inconsistencies surfaced (missing density versions, inconsistent dp measurements) on some of our older resources, so we've been needing to re-cut lots of assets. It's horrible.
+Dealing with drawables and different screen densities is one of the more tedious parts of Android Development. These last few weeks I've been especially aware of this at HipChat, as I've been doing daily "dp" dances with one of our designers. While running Android's lint tool, some image resource inconsistencies surfaced (missing density versions, inconsistent dp measurements) on some of our older resources, so we've been needing to re-cut lots of assets. It's horrible. And it doesn't need to be that way.
+
+<!--more-->
 
 While mentioning this to a co-worker, he brought up VectorDrawables. This is a summary of our conversation:
 
@@ -29,8 +31,6 @@ While mentioning this to a co-worker, he brought up VectorDrawables. This is a s
 After some quick searching and asking on the Twittersphere, it seemed VectorDrawables had come a lot further than I realized. Another typical example of being left behind in software development.
 
 While probably a bit late to the game, here's what I wish I knew a month ago.
-
-<!--more-->
 
 ### You can really use VectorDrawables back to API 7 (Android 2.1)
 
