@@ -74,7 +74,7 @@ After you've created the VectorDrawable, you can set it as the src of any ImageV
       app:srcCompat="@drawable/ic_pin_drop_black_24dp"
       />  
 
-I believe it's recommended to use the AppCompat versions where you can (e.g. [AppCompatImageView](https://developer.android.com/reference/android/support/v7/widget/AppCompatImageView.html)).
+<s>I believe it's recommended to use the AppCompat versions where you can (e.g. [AppCompatImageView](https://developer.android.com/reference/android/support/v7/widget/AppCompatImageView.html)).</s> (EDIT: It's come to my attention that AppCompatImageView is automatically used "in place" of ImageView should you include AppCompat as a dependency, and I believe inflate it through normal means... normal meaning not a subclass or creating without the inflater - e.g. `new ImageView()`).
 
 ### How about TextView Drawables and the like?
 
@@ -110,6 +110,8 @@ Until next time...
 * DevByte [Android Vector Graphics](https://www.youtube.com/watch?v=wlFVIIstKmA)
 
 * [Android Support Library 23.2 release video (30s mark)](https://www.youtube.com/watch?v=7E2lNBM38IE&t=30s)
+
+* AppCompat
 
 \**hattip\** to [Brian Griffey](https://twitter.com/briangriffey), [Matt Wear](https://twitter.com/parallelcross), and [Brian Parent](https://twitter.com/brian_parent) for the help and pointers.
 
