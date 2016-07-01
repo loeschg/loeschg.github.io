@@ -107,7 +107,7 @@ Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: inval
   ...
 ```
 
-Note: this is required for 23.4.0 or above (was working in 23.2.0 then pulled in 23.3.0 then stug behind this flag in 23.4.0 -- see Chris Bane's post linked at the bottom for more details)
+Note: this is required for 23.4.0 or above (was working in 23.2.0 then pulled in 23.3.0 then stuck behind this flag in 23.4.0 -- see Chris Bane's post linked at the bottom for more details)
 
 ### I have lots of SVGs... this sounds tedious
 
