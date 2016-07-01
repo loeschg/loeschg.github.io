@@ -60,6 +60,8 @@ Yep! You no longer have to use use [Android Asset Studio](https://romannurik.git
 
 The easiest way to get a single SVG into your project is by doing the following:
 
+**EDIT**: while the following is probably simplest, I ran into issues directly converting a *custom* (non-Google) SVG in Android Studio (e.g. all black drawable). I suggest using the [svg2android](http://inloop.github.io/svg2android/) online tool.
+
 Right-click your drawable folder -> New -> Vector Asset to bring up **Vector Asset Studio**. The wizard is pretty straightforward. You can select one of the Material Icons (and custom size it) or use your own SVG.
 
 *Note: I'm using Android Studio 2.1.2. Also, I believe some SVG conversion to VectorDrawable features are not yet fully supported... somebody correct me in the comments if I'm wrong.*
