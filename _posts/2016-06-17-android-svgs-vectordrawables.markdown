@@ -90,6 +90,25 @@ The other option when none of the above works is to wrap your VectorDrawable in 
 
 and treat it like you would any other drawable/selector (source: [stackoverflow](http://stackoverflow.com/a/35800335/413254)).
 
+**EDIT:** One thing to note with this technique. You'll likely need to add  `AppCompatDelegate.setCompatVectorFromResourcesEnabled(true);` in your custom Application class (or anywhere before the selector or layer-list is set on the view). Otherwise you may end up with something like the following:
+
+```
+android.view.InflateException: Binary XML file line #47: Error inflating class ImageView
+  at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:704)
+  ...
+Caused by: android.content.res.Resources$NotFoundException: File res/drawable/some_drawable.xml from drawable resource ID #0x7f02005a
+  at android.content.res.Resources.loadDrawable(Resources.java:1918)
+  ...
+Caused by: android.content.res.Resources$NotFoundException: File res/drawable/referenced_drawable.xml from drawable resource ID #0x7f02005b
+  at android.content.res.Resources.loadDrawable(Resources.java:1918)
+  ...
+Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+  at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:877)
+  ...
+```
+
+Note: this is required for 23.4.0 or above (was working in 23.2.0 then pulled in 23.3.0 then stug behind this flag in 23.4.0 -- see Chris Bane's post linked at the bottom for more details)
+
 ### I have lots of SVGs... this sounds tedious
 
 Should you have a bunch of SVGs, you can do a bulk conversion using the [svg2android](http://inloop.github.io/svg2android/) online tool.
