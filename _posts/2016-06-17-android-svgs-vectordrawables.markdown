@@ -115,7 +115,7 @@ Note: this is required for 23.4.0 or above (was working in 23.2.0 then pulled in
 
 Should you have a bunch of SVGs, you can do a bulk conversion using the [svg2android](http://inloop.github.io/svg2android/) online tool.
 
-If you prefer to have a bit more automated process, you may want to check out the victor Gradle plugin (https://github.com/trello/victor) by Dan Lew and the folks over at Trello. From my understanding, this is an early release, though I'm sure they'd love the feedback and help squashing any bugs!
+If you prefer to have a bit more automated process, you may want to check out the [victor Gradle plugin](https://github.com/trello/victor) by Dan Lew and the folks over at Trello. From my understanding, this is an early release, though I'm sure they'd love the feedback and help squashing any bugs!
 
 ### Go shed some APK weight and make your designer happier!
 
