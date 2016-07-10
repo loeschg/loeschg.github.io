@@ -60,6 +60,8 @@ Yep! You no longer have to use use [Android Asset Studio](https://romannurik.git
 
 The easiest way to get a single SVG into your project is by doing the following:
 
+**EDIT**: *while the following is probably simplest, I ran into issues directly converting a custom (non-Google) SVG in Android Studio (e.g. all black drawable). I suggest using the [svg2android](http://inloop.github.io/svg2android/) online tool.*
+
 Right-click your drawable folder -> New -> Vector Asset to bring up **Vector Asset Studio**. The wizard is pretty straightforward. You can select one of the Material Icons (and custom size it) or use your own SVG.
 
 *Note: I'm using Android Studio 2.1.2. Also, I believe some SVG conversion to VectorDrawable features are not yet fully supported... somebody correct me in the comments if I'm wrong.*
@@ -74,7 +76,7 @@ After you've created the VectorDrawable, you can set it as the src of any ImageV
       app:srcCompat="@drawable/ic_pin_drop_black_24dp"
       />  
 
-<s>I believe it's recommended to use the AppCompat versions where you can (e.g. [AppCompatImageView](https://developer.android.com/reference/android/support/v7/widget/AppCompatImageView.html)).</s> (EDIT: It's come to my attention that AppCompatImageView is automatically used "in place" of ImageView should you include AppCompat as a dependency, and I believe inflate it through normal means... normal meaning not a subclass or creating without the inflater - e.g. `new ImageView()`).
+<s>I believe it's recommended to use the AppCompat versions where you can (e.g. [AppCompatImageView](https://developer.android.com/reference/android/support/v7/widget/AppCompatImageView.html)).</s>**EDIT**: It's come to my attention that AppCompatImageView is automatically used "in place" of ImageView should you include AppCompat as a dependency and inflate it through normal means... normal meaning not a subclass or creating without the inflater - e.g. `new ImageView()`. Should you have any custom ImageView subclasses, swap out ImageView for AppCompatImageView, and you should be all set - e.g. `public class AvatarView extends AppCompatImageView`.
 
 ### How about TextView Drawables and the like?
 
@@ -90,11 +92,30 @@ The other option when none of the above works is to wrap your VectorDrawable in 
 
 and treat it like you would any other drawable/selector (source: [stackoverflow](http://stackoverflow.com/a/35800335/413254)).
 
+**EDIT:** One thing to note with this technique. You'll likely need to add  `AppCompatDelegate.setCompatVectorFromResourcesEnabled(true);` in your custom Application class (or anywhere before the selector or layer-list is set on the view). Otherwise you may end up with something like the following:
+
+```
+android.view.InflateException: Binary XML file line #47: Error inflating class ImageView
+  at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:704)
+  ...
+Caused by: android.content.res.Resources$NotFoundException: File res/drawable/some_drawable.xml from drawable resource ID #0x7f02005a
+  at android.content.res.Resources.loadDrawable(Resources.java:1918)
+  ...
+Caused by: android.content.res.Resources$NotFoundException: File res/drawable/referenced_drawable.xml from drawable resource ID #0x7f02005b
+  at android.content.res.Resources.loadDrawable(Resources.java:1918)
+  ...
+Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+  at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:877)
+  ...
+```
+
+Note: this is required for 23.4.0 or above (was working in 23.2.0 then pulled in 23.3.0 then stuck behind this flag in 23.4.0 -- see Chris Bane's post linked at the bottom for more details)
+
 ### I have lots of SVGs... this sounds tedious
 
 Should you have a bunch of SVGs, you can do a bulk conversion using the [svg2android](http://inloop.github.io/svg2android/) online tool.
 
-If you prefer to have a bit more automated process, you may want to check out the victor Gradle plugin (https://github.com/trello/victor) by Dan Lew and the folks over at Trello. From my understanding, this is an early release, though I'm sure they'd love the feedback and help squashing any bugs!
+If you prefer to have a bit more automated process, you may want to check out the [victor Gradle plugin](https://github.com/trello/victor) by Dan Lew and the folks over at Trello. From my understanding, this is an early release, though I'm sure they'd love the feedback and help squashing any bugs!
 
 ### Go shed some APK weight and make your designer happier!
 
