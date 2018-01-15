@@ -4,22 +4,18 @@ title: about me
 permalink: /about/
 ---
 
-<img src="/assets/images/profile-rome.png" class="left"/>
+<img src="/assets/images/austin-headshot-500.jpeg" width="300" height="300" class="left"/>
 
-I’m currently working for Atlassian in Austin, TX where I'm focusing on HipChat for <i class="fa fa-android"></i> Android. My thoughts are my own!
+Greg is a senior software engineer at [Atlassian][atlassian] working on the [Stride][stride] [Android][stride-android] team.
 
-I’m a general tech enthusiast, software engineer, hobbyist photographer, mid-skilled musician - I play piano and guitar and attempt to sing, an uninformed soccer fan, a pretend golfer, an occasional writer, enjoyer of a good outdoor adventure, and a follower of Christ.
+He resides in Austin, TX but is a Buckeye at heart.
 
-You can find me on
+[<i class="fa fa-twitter"></i>][twitter] [<i class="fa fa-linkedin"></i>][linkedin] [<i class="fa fa-github"></i>][github] [<i class="fa fa-stack-overflow"></i>][stackoverflow]
 
-[Linked**in**][linkedin] --- [<i class="fa fa-twitter"></i> Twitter][twitter] --- [<i class="fa fa-google-plus"></i> Google+][g+] <br>
-[<i class="fa fa-github"></i> github][github] --- [<i class="fa fa-stack-overflow"></i> **stack**overflow][stackoverflow] --- [<i class="fa fa-flickr"></i> Flickr][flickr]
-
-\- Greg
-
+[atlassian]: http://atlassian.com "Atlassian"
+[stride]: http://stride.com/ "Stride Atlassian"
+[stride-android]: https://play.google.com/store/apps/details?id=com.atlassian.stride&hl=en "Stride Android"
 [github]: 	http://github.com/loeschg/ 			"github"
 [stackoverflow]:	http://stackoverflow.com/users/413254/loeschg	"stackoverflow"
 [linkedin]: http://linkedin.com/in/gregloesch 	"LinkedIn"
 [twitter]: 	http://twitter.com/loeschg/ 		"Twitter"
-[g+]: 		https://plus.google.com/+GregLoesch "G+"
-[flickr]:  	http://flickr.com/GregLoesch 		"Flickr"
