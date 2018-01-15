@@ -11,3 +11,6 @@ markdown: kramdown
 
 # Custom settings
 excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-gist
