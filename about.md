@@ -6,9 +6,9 @@ permalink: /about/
 
 <img src="/assets/images/austin-headshot-500.jpeg" width="300" height="300" class="left"/>
 
-Greg is a senior software engineer on the [Trello][trello], [Android][trello-android] team at [Atlassian][atlassian].
+greg is a senior software engineer on the [trello][trello], [android][trello-android] team at [atlassian][atlassian]. 
 
-He resides in Austin, TX but is a Buckeye at heart.
+he resides in austin, tx but is a buckeye at heart.
 
 [<i class="fa fa-twitter"></i>][twitter] [<i class="fa fa-linkedin"></i>][linkedin] [<i class="fa fa-github"></i>][github] [<i class="fa fa-stack-overflow"></i>][stackoverflow]
 

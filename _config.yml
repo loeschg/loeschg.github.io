@@ -1,8 +1,7 @@
 # Site settings
 title: gregloesch - blog
 email: greg@gregloesch.com
-description: > # this means to ignore newlines until "baseurl:"
-    Musings from a dev and general tech enthusiast
+description: musings from a dev
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gregloesch.com" 
 
