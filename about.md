@@ -8,7 +8,7 @@ permalink: /about/
 
 greg is a senior software engineer on the [trello][trello], [android][trello-android] team at [atlassian][atlassian]. 
 
-he resides in austin, tx but is a buckeye at heart.
+he resides in columbus, oh.
 
 [<i class="fa fa-twitter"></i>][twitter] [<i class="fa fa-linkedin"></i>][linkedin] [<i class="fa fa-github"></i>][github] [<i class="fa fa-stack-overflow"></i>][stackoverflow]
 
